@@ -1,0 +1,20 @@
+.container{
+    border: solid 2px saddlebrown;
+}
+.col{
+    text-align: center;
+    height: 100%;
+}
+.container .row:nth-child(odd){
+    background-color: navajowhite;
+}
+.row{
+    height: 50px;
+}
+.c1{
+    width: 60%;
+    margin: 10px auto 0 auto;
+}
+.rmain{
+    font-weight: 900;
+}
